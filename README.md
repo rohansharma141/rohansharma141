@@ -35,6 +35,8 @@ Today I build custom software for international clients and AI-powered tools for
 - 🏗️ **Custom software for SMBs** — websites, automation, CRM, digital infrastructure
 - 🤖 **AI tooling & accelerators** — Claude-powered site generators, content automation, growth ops
 
+Currently building PropOS / Prithvi: a WhatsApp-native AI agent for real estate brokers (RAG with pgvector, agent grounding, Meta Cloud API). Private repo.
+
 ---
 
 ### Tech I reach for
